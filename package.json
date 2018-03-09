@@ -25,7 +25,6 @@
     "url": "https://github.com/screwdriver-cd-test/quickstart-nodejs/issues"
   },
   "homepage": "https://github.com/screwdriver-cd-test/quickstart-nodejs#readme",
-  "private": true,
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0"
